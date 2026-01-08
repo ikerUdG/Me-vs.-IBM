@@ -79,3 +79,12 @@ Tota la informació primitiva del projecte es troba a la carpeta `data`. Aquesta
 - **Dades per any**: Dades organitzades per temporades (2000-2025)
 
 Aquesta informació primitiva és processada pel notebook `data_cleaner.ipynb` per generar el dataset final amb totes les característiques calculades.
+
+## Resultats
+
+Tota la informació sobre els resultats de les prediccions i les comparacions amb els resultats reals està continguda al fitxer Excel `ResultatWimbeldon.xlsx`. Aquest fitxer inclou:
+
+- Resultats reals dels partits del torneig de Wimbledon 2025
+- Prediccions generades pels models
+- Comparatives entre diferents models
+- Anàlisi de rendiment i precisió de les prediccions
